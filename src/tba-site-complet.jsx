@@ -20,7 +20,7 @@ const P = {
 // ─── LIENS SOCIAUX (à compléter plus tard) ───────────────────────────────────
 const SOCIAL = {
   facebook: "https://www.facebook.com/profile.php?id=61589543464774",
-  whatsapp: "https://wa.me/VOTRE_NUMERO", // à configurer
+  whatsapp: "https://wa.me/+237694952656", // à configurer
   instagram: "https://instagram.com/trustbuildingacademy", // à configurer
   tiktok: "https://tiktok.com/@trustbuildingacademy", // à configurer
   youtube: "https://youtube.com/@trustbuildingacademy", // à configurer
